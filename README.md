@@ -13,7 +13,7 @@ pip install -r requirements.txt
 ## Data
 We develope and evaluate PADPP on two published goal-oriented dialogues, including DuRecDial2.0 and CraigslistBargain. 
 
-To download datasets, including DuRecDial 2.0 and CraigslistBargain, please access the following [link](http://example.com). After downloading the data directory, please copy and paste it to the project folder.  
+To download datasets, including DuRecDial 2.0 and CraigslistBargain, please access the following [link](https://drive.google.com/drive/folders/1geGSLEuyW2YrCbLMLdyOqaE7n5KRZN4z?usp=drive_link). After downloading the data directory, please copy and paste it to the project folder.  
 
 ## Model Training
 
