@@ -16,9 +16,9 @@ run_sft: true
 run_rlt: true
 run_online_eval: true
 run_offline_eval: true
-num_train_rl_epochs: 6
+num_train_rl_epochs: 10
 train_rl_batch_size: 128
-sampled_times: 2
+sampled_times: 50
 freeze_preference_backbone: false
 objective_embedding_size: 6
 num_train_q_network_epochs: 10
