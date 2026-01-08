@@ -16,7 +16,7 @@ do
             --seed $i \
             --scenario recommendation \
             --log_dir logs \
-            --loggers terminal \
+            --loggers terminal,file \
             --datasets durecdial \
             --models padpp \
             --domain $domain \
@@ -35,7 +35,7 @@ do
             --seed $i \
             --scenario recommendation \
             --log_dir logs \
-            --loggers terminal,file,wandb \
+            --loggers terminal,file \
             --datasets durecdial \
             --models padpp \
             --test_phase \
@@ -54,7 +54,7 @@ do
             --seed $i \
             --scenario recommendation \
             --log_dir logs \
-            --loggers terminal,file,wandb \
+            --loggers terminal,file \
             --datasets durecdial \
             --models padpp \
             --test_phase \
