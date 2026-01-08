@@ -1,10 +1,10 @@
 #
 #!/bin/bash
-domains=("movie")
+domains=("movie" "music" "poi")
 EXPNAME="Main"
-NEPOCHS=50
+NEPOCHS=10
 NPREFERENCES=32
-for i in 1
+for i in 1 2 3
 do
         for domain in "${domains[@]}"
         do
