@@ -79,7 +79,6 @@ In case that you want to test the model on a specific objective preference (e.g 
 ## Citation
 Please kindly cite our paper as references if you use our codes or the processed datasets.
 ```bibtex
-@inproceedings{10.1145/3626772.3657755,
 @inproceedings{dao-liao-2025-one,
     title = "One Planner To Guide Them All ! Learning Adaptive Conversational Planners for Goal-oriented Dialogues",
     author = "Dao, Huy Quang  and
